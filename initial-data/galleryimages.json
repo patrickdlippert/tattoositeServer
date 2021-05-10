@@ -1,0 +1,1922 @@
+[
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fab"
+        },
+        "name": "Neo Traditional Image 1",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery1-1.jpg",
+        "image_full": "images/gallery/gallery1-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fac"
+        },
+        "name": "Neo Traditional Image 2",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery1-2.jpg",
+        "image_full": "images/gallery/gallery1-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fad"
+        },
+        "name": "Neo Traditional Image 3",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery1-3.jpg",
+        "image_full": "images/gallery/gallery1-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.904Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fae"
+        },
+        "name": "Neo Traditional Image 4",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery1-4.jpg",
+        "image_full": "images/gallery/gallery1-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733faf"
+        },
+        "name": "Neo Traditional Image 5",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery1-5.jpg",
+        "image_full": "images/gallery/gallery1-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb0"
+        },
+        "name": "Neo Traditional Image 6",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery1-6.jpg",
+        "image_full": "images/gallery/gallery1-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb1"
+        },
+        "name": "Neo Traditional Image 7",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery1-7.jpg",
+        "image_full": "images/gallery/gallery1-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb2"
+        },
+        "name": "Neo Traditional Image 8",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery1-8.jpg",
+        "image_full": "images/gallery/gallery1-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb3"
+        },
+        "name": "Neo Traditional Image 9",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery1-9.jpg",
+        "image_full": "images/gallery/gallery1-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb4"
+        },
+        "name": "Neo Traditional Image 10",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery1-10.jpg",
+        "image_full": "images/gallery/gallery1-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb5"
+        },
+        "name": "Neo Traditional Image 11",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery1-11.jpg",
+        "image_full": "images/gallery/gallery1-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb6"
+        },
+        "name": "Neo Traditional Image 12",
+        "type": "neotraditional",
+        "typecode": 1,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery1-12.jpg",
+        "image_full": "images/gallery/gallery1-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb7"
+        },
+        "name": "New School Image 1",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery2-1.jpg",
+        "image_full": "images/gallery/gallery2-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb8"
+        },
+        "name": "New School Image 2",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery2-2.jpg",
+        "image_full": "images/gallery/gallery2-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fb9"
+        },
+        "name": "New School Image 3",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery2-3.jpg",
+        "image_full": "images/gallery/gallery2-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fba"
+        },
+        "name": "New School Image 4",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery2-4.jpg",
+        "image_full": "images/gallery/gallery2-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fbb"
+        },
+        "name": "New School Image 5",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery2-5.jpg",
+        "image_full": "images/gallery/gallery2-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fbc"
+        },
+        "name": "New School Image 6",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery2-6.jpg",
+        "image_full": "images/gallery/gallery2-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fbd"
+        },
+        "name": "New School Image 7",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery2-7.jpg",
+        "image_full": "images/gallery/gallery2-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.905Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fbe"
+        },
+        "name": "New School Image 8",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery2-8.jpg",
+        "image_full": "images/gallery/gallery2-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fbf"
+        },
+        "name": "New School Image 9",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery2-9.jpg",
+        "image_full": "images/gallery/gallery2-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc0"
+        },
+        "name": "New School Image 10",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery2-10.jpg",
+        "image_full": "images/gallery/gallery2-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc1"
+        },
+        "name": "New School Image 11",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery2-11.jpg",
+        "image_full": "images/gallery/gallery2-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc2"
+        },
+        "name": "New School Image 12",
+        "type": "newschool",
+        "typecode": 2,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery2-12.jpg",
+        "image_full": "images/gallery/gallery2-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc3"
+        },
+        "name": "American Traditional Image 1",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery3-1.jpg",
+        "image_full": "images/gallery/gallery3-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc4"
+        },
+        "name": "American Traditional Image 2",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery3-2.jpg",
+        "image_full": "images/gallery/gallery3-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc5"
+        },
+        "name": "American Traditional Image 3",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery3-3.jpg",
+        "image_full": "images/gallery/gallery3-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc6"
+        },
+        "name": "American Traditional Image 4",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery3-4.jpg",
+        "image_full": "images/gallery/gallery3-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc7"
+        },
+        "name": "American Traditional Image 5",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery3-5.jpg",
+        "image_full": "images/gallery/gallery3-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc8"
+        },
+        "name": "American Traditional Image 6",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery3-6.jpg",
+        "image_full": "images/gallery/gallery3-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fc9"
+        },
+        "name": "American Traditional Image 7",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery3-7.jpg",
+        "image_full": "images/gallery/gallery3-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fca"
+        },
+        "name": "American Traditional Image 8",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery3-8.jpg",
+        "image_full": "images/gallery/gallery3-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.906Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fcb"
+        },
+        "name": "American Traditional Image 9",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery3-9.jpg",
+        "image_full": "images/gallery/gallery3-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fcc"
+        },
+        "name": "American Traditional Image 10",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery3-10.jpg",
+        "image_full": "images/gallery/gallery3-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fcd"
+        },
+        "name": "American Traditional Image 11",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery3-11.jpg",
+        "image_full": "images/gallery/gallery3-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fce"
+        },
+        "name": "American Traditional Image 12",
+        "type": "americantraditional",
+        "typecode": 3,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery3-12.jpg",
+        "image_full": "images/gallery/gallery3-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fcf"
+        },
+        "name": "Japanese Image 1",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery4-1.jpg",
+        "image_full": "images/gallery/gallery4-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd0"
+        },
+        "name": "Japanese Image 2",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery4-2.jpg",
+        "image_full": "images/gallery/gallery4-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd1"
+        },
+        "name": "Japanese Image 3",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery4-3.jpg",
+        "image_full": "images/gallery/gallery4-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd2"
+        },
+        "name": "Japanese Image 4",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery4-4.jpg",
+        "image_full": "images/gallery/gallery4-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd3"
+        },
+        "name": "Japanese Image 5",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery4-5.jpg",
+        "image_full": "images/gallery/gallery4-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd4"
+        },
+        "name": "Japanese Image 6",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery4-6.jpg",
+        "image_full": "images/gallery/gallery4-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd5"
+        },
+        "name": "Japanese Image 7",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery4-7.jpg",
+        "image_full": "images/gallery/gallery4-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd6"
+        },
+        "name": "Japanese Image 8",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery4-8.jpg",
+        "image_full": "images/gallery/gallery4-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd7"
+        },
+        "name": "Japanese Image 9",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery4-9.jpg",
+        "image_full": "images/gallery/gallery4-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd8"
+        },
+        "name": "Japanese Image 10",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery4-10.jpg",
+        "image_full": "images/gallery/gallery4-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fd9"
+        },
+        "name": "Japanese Image 11",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery4-11.jpg",
+        "image_full": "images/gallery/gallery4-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fda"
+        },
+        "name": "Japanese Image 12",
+        "type": "japanese",
+        "typecode": 4,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery4-12.jpg",
+        "image_full": "images/gallery/gallery4-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fdb"
+        },
+        "name": "Watercolor Image 1",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery5-1.jpg",
+        "image_full": "images/gallery/gallery5-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fdc"
+        },
+        "name": "Watercolor Image 2",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery5-2.jpg",
+        "image_full": "images/gallery/gallery5-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fdd"
+        },
+        "name": "Watercolor Image 3",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery5-3.jpg",
+        "image_full": "images/gallery/gallery5-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.907Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fde"
+        },
+        "name": "Watercolor Image 4",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery5-4.jpg",
+        "image_full": "images/gallery/gallery5-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fdf"
+        },
+        "name": "Watercolor Image 5",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery5-5.jpg",
+        "image_full": "images/gallery/gallery5-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe0"
+        },
+        "name": "Watercolor Image 6",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery5-6.jpg",
+        "image_full": "images/gallery/gallery5-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe1"
+        },
+        "name": "Watercolor Image 7",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery5-7.jpg",
+        "image_full": "images/gallery/gallery5-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe2"
+        },
+        "name": "Watercolor Image 8",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery5-8.jpg",
+        "image_full": "images/gallery/gallery5-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe3"
+        },
+        "name": "Watercolor Image 9",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery5-9.jpg",
+        "image_full": "images/gallery/gallery5-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe4"
+        },
+        "name": "Watercolor Image 10",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery5-10.jpg",
+        "image_full": "images/gallery/gallery5-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe5"
+        },
+        "name": "Watercolor Image 11",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery5-11.jpg",
+        "image_full": "images/gallery/gallery5-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe6"
+        },
+        "name": "Watercolor Image 12",
+        "type": "watercolor",
+        "typecode": 5,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery5-12.jpg",
+        "image_full": "images/gallery/gallery5-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe7"
+        },
+        "name": "Tribal Image 1",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery6-1.jpg",
+        "image_full": "images/gallery/gallery6-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe8"
+        },
+        "name": "Tribal Image 2",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery6-2.jpg",
+        "image_full": "images/gallery/gallery6-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fe9"
+        },
+        "name": "Tribal Image 3",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery6-3.jpg",
+        "image_full": "images/gallery/gallery6-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fea"
+        },
+        "name": "Tribal Image 4",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery6-4.jpg",
+        "image_full": "images/gallery/gallery6-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733feb"
+        },
+        "name": "Tribal Image 5",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery6-5.jpg",
+        "image_full": "images/gallery/gallery6-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fec"
+        },
+        "name": "Tribal Image 6",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery6-6.jpg",
+        "image_full": "images/gallery/gallery6-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fed"
+        },
+        "name": "Tribal Image 7",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery6-7.jpg",
+        "image_full": "images/gallery/gallery6-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fee"
+        },
+        "name": "Tribal Image 8",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery6-8.jpg",
+        "image_full": "images/gallery/gallery6-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.908Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fef"
+        },
+        "name": "Tribal Image 9",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery6-9.jpg",
+        "image_full": "images/gallery/gallery6-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff0"
+        },
+        "name": "Tribal Image 10",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery6-10.jpg",
+        "image_full": "images/gallery/gallery6-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff1"
+        },
+        "name": "Tribal Image 11",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery6-11.jpg",
+        "image_full": "images/gallery/gallery6-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff2"
+        },
+        "name": "Tribal Image 12",
+        "type": "tribal",
+        "typecode": 6,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery6-12.jpg",
+        "image_full": "images/gallery/gallery6-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff3"
+        },
+        "name": "Bio Mechanical Image 1",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery7-1.jpg",
+        "image_full": "images/gallery/gallery7-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff4"
+        },
+        "name": "Bio Mechanical Image 2",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery7-2.jpg",
+        "image_full": "images/gallery/gallery7-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff5"
+        },
+        "name": "Bio Mechanical Image 3",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery7-3.jpg",
+        "image_full": "images/gallery/gallery7-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff6"
+        },
+        "name": "Bio Mechanical Image 4",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery7-4.jpg",
+        "image_full": "images/gallery/gallery7-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff7"
+        },
+        "name": "Bio Mechanical Image 5",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery7-5.jpg",
+        "image_full": "images/gallery/gallery7-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff8"
+        },
+        "name": "Bio Mechanical Image 6",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery7-6.jpg",
+        "image_full": "images/gallery/gallery7-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ff9"
+        },
+        "name": "Bio Mechanical Image 7",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery7-7.jpg",
+        "image_full": "images/gallery/gallery7-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ffa"
+        },
+        "name": "Bio Mechanical Image 8",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery7-8.jpg",
+        "image_full": "images/gallery/gallery7-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ffb"
+        },
+        "name": "Bio Mechanical Image 9",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery7-9.jpg",
+        "image_full": "images/gallery/gallery7-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ffc"
+        },
+        "name": "Bio Mechanical Image 10",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery7-10.jpg",
+        "image_full": "images/gallery/gallery7-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ffd"
+        },
+        "name": "Bio Mechanical Image 11",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery7-11.jpg",
+        "image_full": "images/gallery/gallery7-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733ffe"
+        },
+        "name": "Bio Mechanical Image 12",
+        "type": "biomechanical",
+        "typecode": 7,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery7-12.jpg",
+        "image_full": "images/gallery/gallery7-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4733fff"
+        },
+        "name": "Realism Image 1",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery8-1.jpg",
+        "image_full": "images/gallery/gallery8-1.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734000"
+        },
+        "name": "Realism Image 2",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery8-2.jpg",
+        "image_full": "images/gallery/gallery8-2.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.909Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734001"
+        },
+        "name": "Realism Image 3",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery8-3.jpg",
+        "image_full": "images/gallery/gallery8-3.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734002"
+        },
+        "name": "Realism Image 4",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery8-4.jpg",
+        "image_full": "images/gallery/gallery8-4.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734003"
+        },
+        "name": "Realism Image 5",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66508d7a942f4c449e91"
+        },
+        "image_thumb": "images/gallery/gallery8-5.jpg",
+        "image_full": "images/gallery/gallery8-5.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734004"
+        },
+        "name": "Realism Image 6",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66888d7a942f4c449e92"
+        },
+        "image_thumb": "images/gallery/gallery8-6.jpg",
+        "image_full": "images/gallery/gallery8-6.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734005"
+        },
+        "name": "Realism Image 7",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66b78d7a942f4c449e93"
+        },
+        "image_thumb": "images/gallery/gallery8-7.jpg",
+        "image_full": "images/gallery/gallery8-7.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734006"
+        },
+        "name": "Realism Image 8",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66c88d7a942f4c449e94"
+        },
+        "image_thumb": "images/gallery/gallery8-8.jpg",
+        "image_full": "images/gallery/gallery8-8.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734007"
+        },
+        "name": "Realism Image 9",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f66e38d7a942f4c449e95"
+        },
+        "image_thumb": "images/gallery/gallery8-9.jpg",
+        "image_full": "images/gallery/gallery8-9.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734008"
+        },
+        "name": "Realism Image 10",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e96"
+        },
+        "image_thumb": "images/gallery/gallery8-10.jpg",
+        "image_full": "images/gallery/gallery8-10.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb4734009"
+        },
+        "name": "Realism Image 11",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e97"
+        },
+        "image_thumb": "images/gallery/gallery8-11.jpg",
+        "image_full": "images/gallery/gallery8-11.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "608fb2b58f961e3fb473400a"
+        },
+        "name": "Realism Image 12",
+        "type": "realism",
+        "typecode": 8,
+        "artist": {
+            "$oid": "608f670b8d7a942f4c449e98"
+        },
+        "image_thumb": "images/gallery/gallery8-12.jpg",
+        "image_full": "images/gallery/gallery8-12.jpg",
+        "createdAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-03T08:22:13.91Z"
+        },
+        "__v": 0
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec258"
+        },
+        "displayName": true,
+        "name": "Tacoma's finest",
+        "image": "images/reviews/totaltattoomag.png",
+        "description": "Bad Panda Tattoo is a gem of a shop, led by visionary newcomer Tommy Chen. Book your appointment now, because they're about to blow up!",
+        "url": "http://www.totaltattoo.co.uk/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec259"
+        },
+        "displayName": true,
+        "name": "Outstanding Quality",
+        "image": "images/reviews/inkedmag.png",
+        "description": "Inked Magazine stands behind this excellent shop. You'll see some familiar faces from the industry here, all bringing out their best.",
+        "url": "https://www.inkedmag.com/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec25a"
+        },
+        "displayName": true,
+        "name": "New and original",
+        "image": "images/reviews/freshlyinkedmag.png",
+        "description": "In Tacoma, Tommy Chen and his team deliver a 21-st century experience, raising the bar for the Pacific Northwest tattoo community.",
+        "url": "https://freshlyinkedmag.com/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.713Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec25b"
+        },
+        "displayName": true,
+        "name": "Top Ten in Washington",
+        "image": "images/reviews/tattoosocietymag.png",
+        "description": "Making big moves at the NY Tattoo Show, Bad Panda is the one to watch. Fresh takes on color and composition had everyone captivated.",
+        "url": "https://tattoosocietymagazine.com/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec25c"
+        },
+        "displayName": true,
+        "name": "Talent in action",
+        "image": "images/reviews/urbaninkmag.png",
+        "description": "This diverse team of artists has something to say. A great balance of skills, techniques, art and perspectives delivering first class ink.",
+        "url": "https://www.inkedshop.com/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "609248de71cf2154acaec25d"
+        },
+        "displayName": true,
+        "name": "Night Manager Approved",
+        "image": "images/reviews/dennys.png",
+        "description": "Yo, Panda straight up is the sickest artist in town. Once I get my tips from Denny's, I look forward to having the sickest back dragon ever!",
+        "url": "https://www.dennys.com/",
+        "createdAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T07:27:26.714Z"
+        },
+        "__v": 0
+    }
+]

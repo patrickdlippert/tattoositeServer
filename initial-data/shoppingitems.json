@@ -1,0 +1,146 @@
+[
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c92e"
+        },
+        "rating": 4.2,
+        "name": "Women's Top",
+        "image1": "images/shopping/shop-img-5.jpg",
+        "image2": "images/shopping/shop-img-6.jpg",
+        "price": "$26.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c932"
+        },
+        "rating": 4.2,
+        "name": "Logo T-shirt",
+        "image1": "images/shopping/shop-img-13.jpg",
+        "image2": "images/shopping/shop-img-14.jpg",
+        "price": "$19.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c92c"
+        },
+        "rating": 4,
+        "name": "Men's Tattoo T-shirt",
+        "image1": "images/shopping/shop-img-1.jpg",
+        "image2": "images/shopping/shop-img-2.jpg",
+        "price": "$19.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.011Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.011Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c930"
+        },
+        "rating": 4.4,
+        "name": "Bad Panda 14oz Mug",
+        "image1": "images/shopping/shop-img-9.jpg",
+        "image2": "images/shopping/shop-img-10.jpg",
+        "price": "$9.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c931"
+        },
+        "rating": 4.8,
+        "name": "Tattoo Panda T-shirt",
+        "image1": "images/shopping/shop-img-11.jpg",
+        "image2": "images/shopping/shop-img-12.jpg",
+        "price": "$24.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c92d"
+        },
+        "rating": 3.8,
+        "name": "Men's Sweatshirt",
+        "image1": "images/shopping/shop-img-3.jpg",
+        "image2": "images/shopping/shop-img-4.jpg",
+        "price": "$39.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c92f"
+        },
+        "rating": 4.1,
+        "name": "Women's Hoodie",
+        "image1": "images/shopping/shop-img-7.jpg",
+        "image2": "images/shopping/shop-img-8.jpg",
+        "price": "$49.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.012Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925974aa7c1851d011c933"
+        },
+        "rating": 3.4,
+        "name": "Bad Panda Keychain",
+        "image1": "images/shopping/shop-img-15.jpg",
+        "image2": "images/shopping/shop-img-16.jpg",
+        "price": "$4.95",
+        "description": "COMING SOON",
+        "createdAt": {
+            "$date": "2021-05-05T08:38:12.013Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:38:12.013Z"
+        },
+        "__v": 0
+    }
+]

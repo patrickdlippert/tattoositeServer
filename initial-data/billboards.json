@@ -1,0 +1,66 @@
+[
+    {
+        "_id": {
+            "$oid": "60925116e85daa44d40ab861"
+        },
+        "image": "images/billboards/carousel-tattoo-2.jpg",
+        "altText": "Slide 2",
+        "header": "Bring Your Inspiration",
+        "caption": "If you can imagine it, we can help.",
+        "createdAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925116e85daa44d40ab860"
+        },
+        "image": "images/billboards/carousel-tattoo-1.jpg",
+        "altText": "Slide 1",
+        "header": "Custom Tattoos Perfected",
+        "caption": "Bad Panda Tattoo, Est. 2011",
+        "createdAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925116e85daa44d40ab862"
+        },
+        "image": "images/billboards/carousel-tattoo-3.jpg",
+        "altText": "Slide 3",
+        "header": "Traditional to New School",
+        "caption": "We have experts in virtually all styles of tattoos.",
+        "createdAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "60925116e85daa44d40ab863"
+        },
+        "image": "images/billboards/carousel-tattoo-4.jpg",
+        "altText": "Our Expertise",
+        "header": "Our Expertise",
+        "caption": "Our team has over 100 years of combined experience!",
+        "createdAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "updatedAt": {
+            "$date": "2021-05-05T08:02:30.126Z"
+        },
+        "__v": 0
+    }
+]
